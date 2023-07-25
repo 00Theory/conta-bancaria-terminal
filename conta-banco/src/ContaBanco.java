@@ -2,7 +2,7 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class App {
+public class ContaBanco {
     public static void main(String[] args) throws Exception {
         /*TODO:
         Conhecer e importar a classe Scanner
