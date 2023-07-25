@@ -28,7 +28,7 @@ public class App {
         String nomeCliente = nome.concat(" " + sobrenome);
 
         System.out.print("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco,\n");
-        System.out.print(" sua agência é " + agencia + ", conta " + numero + " e seu saldo " + dinheiro.format(saldo) + " já está disponível para saque.");
+        System.out.print("sua agência é " + agencia + ", conta " + numero + " e seu saldo " + dinheiro.format(saldo) + " já está disponível para saque.");
         sc.close();
     }
 }
